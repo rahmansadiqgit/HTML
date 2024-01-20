@@ -1,6 +1,6 @@
 # HTML Course & project
 
-## Introduction to HTML
+## Chapter 1:Introduction to HTML
 
 - What is HTML ? why do we need HTML?
 - Tag,element,attribute
@@ -12,7 +12,15 @@
 - validation for html file
 - Comments
 
-## Typography
+## Chapter 2:Typography
 - Headings, Horizontal rule, line break
 - Paragraph
 - Text formatting tags -strong(bolt),em(italic),mark,sup,sub
+
+## Chapter 3:List , Link ,Images, frames,Media
+
+- List -> ordered list(ol), unordered list(ul)
+- Link
+- Image
+- frames
+- media- audio,video
