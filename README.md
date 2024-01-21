@@ -24,3 +24,14 @@
 - Image
 - frames
 - media- audio,video
+
+## Chapture 4: Table,Form
+
+## Chapture 5: Web accessibility
+- inspect -> Lighthouse -> accessibility
+- semantic(meaningful) tag vs non-semantic
+ - header,nav,footer,section,main
+- img tag make sure to use alt attribute
+- if you create a link make it describeable
+- form(label)
+
